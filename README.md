@@ -7,8 +7,7 @@ This repository showcases my work using *Excel, SQL, Python, Tableau, and Power 
 
 | Project | Tools Used | Description | Link |
 |--------|-------------|-------------|------|
-| Titanic Survival Analysis | Python (Pandas), Tableau | Exploratory data analysis on Titanic dataset | [View Dashboard](https://bit.ly/titanic-dashboard-nancy](https://public.tableau.com/views/TitanicI_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) |
-
+| Titanic Survival Analysis | Python (Pandas), Tableau | Exploratory data analysis on Titanic dataset | [View Dashboard](https://public.tableau.com/views/TitanicI_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 📬 Contact
 - *Location:* Ontario, Canada
 - *Email:* nancytachjian@gmail.com
