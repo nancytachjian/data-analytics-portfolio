@@ -16,8 +16,7 @@ This project explores the Titanic dataset to analyze which factors influenced pa
 ## Dashboard
 
 You can interact with the final Tableau dashboard here:  
-🔗 *Tableau Public:* [View Dashboard](https://public.tableau.com/views/Titanic_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:sidR...)
-
+🔗 *Tableau Public:*[View Dashboard](https://public.tableau.com/views/TitanicI_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 
