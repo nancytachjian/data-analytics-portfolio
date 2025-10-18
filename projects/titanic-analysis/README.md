@@ -14,7 +14,9 @@ This project explores the Titanic dataset to analyze which factors influenced pa
 4. Survival rate visualization
 
 ## Dashboard
-(Tableau link will be added here)
+
+You can interact with the final Tableau dashboard here:  
+🔗 *Tableau Public:* [View Dashboard](https://public.tableau.com/views/Titanic_TableauDashboardTableauPublic/Dashboard1?:language=en-US&:sidR...)
 
 
 ## Key Findings
